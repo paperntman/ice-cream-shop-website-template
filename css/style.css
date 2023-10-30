@@ -9811,8 +9811,18 @@ h6,
   z-index: 1;
 }
 
-.page-header {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/todo/NoPicture/NoPicture.001.png), no-repeat center center;
+.page-headerFood {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/food.jpg), no-repeat center center;
+  background-size: cover;
+}
+
+.page-headerCourse {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/co.jpg), no-repeat center center;
+  background-size: cover;
+}
+
+.page-headerCamera {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/food.jpg), no-repeat center center;
   background-size: cover;
 }
 
